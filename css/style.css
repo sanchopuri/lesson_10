@@ -1,0 +1,187 @@
+
+body{
+	font-family: 'Lato';
+}
+
+
+header{
+	margin: 0 auto;
+	max-width: 810px;
+}
+
+.header-cheapter__main{
+	font-weight: 900;
+	font-size: 45px;
+	margin-bottom: 90px;
+	line-height: 130%;
+	margin-top: 190px;
+}
+
+.header-img{
+	text-align: center;
+	margin-bottom: 60px;
+}
+
+
+
+.imagin{
+	max-width: 100%;
+}
+
+main{
+	margin: 0 auto;
+	max-width: 810px;
+}
+
+
+
+.main-header-content-text{
+	font-weight: 700;
+	font-size: 20px;
+	margin-bottom: 25px;
+	line-height: 150%;
+}
+
+
+
+.content{
+	line-height: 160%;
+	font-size: 16px;
+	margin-bottom: 30px;
+}
+
+
+.main-botttom-chepter{
+	font-weight: 700;
+	font-size: 20px;
+	line-height: 150%;
+	background: url('../img/icons/braces.svg') 0 0 no-repeat;
+	margin-bottom: 48px;
+	padding-left: 60px;
+}
+
+footer{
+	margin: 0 auto;
+	max-width: 810px;
+}
+
+.footer-text{
+	line-height: 160%;
+	font-size: 16px;
+	margin-bottom: 25px;
+}
+
+.topic li{
+	background: url('../img/icons/Vector.svg') 0 6px no-repeat;
+	line-height: 170%;
+	padding-left: 30px;
+}
+
+.topic{
+	margin-bottom: 25px;
+}
+
+.bottom{
+	line-height: 25px;
+	margin-bottom: 100px;
+}
+
+
+
+.title{
+	font-weight: 900;
+	font-size: 45px;
+	line-height: 130%;
+}
+
+.header__2{
+	margin: 0 auto;
+	max-width: 810px;
+}
+
+.main__2{
+	margin: 0 auto;
+	max-width: 810px;
+}
+
+.footer__2{
+	margin: 0 auto;
+	max-width: 810px;
+}
+
+
+[class*=__impor]{
+	margin-bottom: 25px;
+	margin-top: 150px;
+} 
+
+.bottom-title{
+	font-weight: 700;
+	font-size: 28px;
+	line-height: 42px;
+	margin-bottom: 25px;
+	margin-top: 48px;
+}
+
+.main__text{
+	max-width: 600px; 
+}
+
+.text{
+	line-height: 25px;
+}
+
+.basic__topic  li{
+	background: url('../img/icons/Vector.svg') 0 6px no-repeat; 
+	line-height: 170%;
+	padding-left: 30px;
+}
+
+.footer__bottom{
+	max-width: 600px; 
+}
+
+
+#element{
+	margin-bottom: 8px;
+	font-weight: 700;
+	font-size: 16px;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+}
+
+.footer-impor{
+	margin-bottom: 16px;
+}
+
+.information{
+	font-size: 20px;
+	line-height: 30px;
+	font-weight: 400;
+	margin-bottom: 32px;
+}
+
+.lowerest__topic{
+	font-weight: 700;
+	line-height: 25px;
+	margin-bottom: 32px;
+}
+
+.lowerest__topic li:nth-child(1){
+	background: url('../img/icons/Star.svg') 0 6px no-repeat; 
+	padding-left: 25px;
+	line-height: 170%;
+}
+
+.lowerest__topic li:nth-child(2){
+	background: url('../img/icons/Play.svg') 0 6px no-repeat; 
+	padding-left: 25px;
+	line-height: 170%;
+}
+
+.lowerest__topic li:nth-child(3){
+	background: url('../img/icons/Profile.svg') 0 6px no-repeat; 
+	padding-left: 25px;
+	line-height: 170%;
+}
+
